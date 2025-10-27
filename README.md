@@ -1,6 +1,6 @@
 ## Jérémy Bourg
 
-<img align="right" src="./pepe-peepo.gif" width="50">
+<img align="right" src="./pepe-peepo.gif" width="140">
 
 ### Ce que j'aime
 - Open-source
