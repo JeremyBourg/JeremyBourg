@@ -6,8 +6,7 @@
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
