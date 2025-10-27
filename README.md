@@ -1,13 +1,8 @@
-# Jérémy Bourg
+## Jérémy Bourg
 
+<div class="tenor-gif-embed" data-postid="380725180271753999" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pepe-peepo-betterttv-meme-chatting-gif-380725180271753999">Pepe Peepo Sticker</a>from <a href="https://tenor.com/search/pepe-stickers">Pepe Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-
-## Programmeur Junior
-
-<a href="https://jbourg.dectim.ca"><img src="https://img.shields.io/badge/mon%20site%20web-8A2BE2?&style=for-the-badge&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-bourg-498a03385/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-
-## Compétences
+### Compétences
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
