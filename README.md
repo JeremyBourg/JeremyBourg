@@ -1,6 +1,6 @@
 ## Jérémy Bourg
 
-<img align="right" src="./pepe-peepo.gif" width="200">
+<img align="right" src="./pepe-peepo.gif" width="150">
 
 ### Compétences
 
