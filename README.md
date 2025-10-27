@@ -2,7 +2,10 @@
 
 <img align="right" src="./pepe-peepo.gif" width="50">
 
-Linux, programmat
+### Ce que j'aime
+- Open-source
+- Jeux vidéos
+- Puzzles
 
 ### Compétences
 
