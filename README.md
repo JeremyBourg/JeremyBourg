@@ -4,7 +4,7 @@
 
 ## Programmeur Junior
 
-<a href="https://jbourg.dectim.ca"><img src="https://img.shields.io/badge/website-8A2BE2?&style=for-the-badge&logoColor=white" height=25></a>
+<a href="https://jbourg.dectim.ca"><img src="https://img.shields.io/badge/mon%20site%20web-8A2BE2?&style=for-the-badge&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-bourg-498a03385/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ## Compétences
