@@ -1,6 +1,6 @@
 ## Jérémy Bourg
 
-[![Typing on keyboard GIF](./pepe-peepo.gif)](#)
+<img align="right" src="./pepe-peepo.gif" width="200">
 
 ### Compétences
 
