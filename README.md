@@ -1,6 +1,6 @@
 ## Jérémy Bourg
 
-<div class="tenor-gif-embed" data-postid="380725180271753999" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pepe-peepo-betterttv-meme-chatting-gif-380725180271753999">Pepe Peepo Sticker</a>from <a href="https://tenor.com/search/pepe-stickers">Pepe Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+[![Typing on keyboard GIF](./pepe-peepo.gif)](#)
 
 ### Compétences
 
